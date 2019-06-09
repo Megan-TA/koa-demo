@@ -1,0 +1,8 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Megan-TA/koa-demo.git",
+  "author": "chen_huang <893669153@qq.com>",
+  "license": "MIT"
+}
