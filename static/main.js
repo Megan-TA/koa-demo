@@ -1,0 +1,1 @@
+document.querySelector('#app').style.fontSize = '18px'
